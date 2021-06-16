@@ -1,12 +1,12 @@
-# 🔥 MLKit Demo
-A demo app for Firebase ML-Kit which is a mobile SDK provided by Google to bring Google's machine learning expertise to mobile apps in a powerful yet easy-to-use way
+# 🔥 Express Cam
+An app for Firebase ML-Kit which is a mobile SDK provided by Google to bring Google's machine learning expertise to mobile apps in a powerful yet easy-to-use way
+The app contains various examples of ML-Kit (Vision part), each example is presented as a single activity.
 
-> ML-kit is in beta release for now 👩‍🔬
+<!-- > ML-kit is in beta release for now 👩‍🔬
 
-## 📱 About the app
-The app contains various examples of ML-Kit (Vision part), each example is presented as a single activity (All in one app 🤭)
+<!-- ## 📱 About the app
 
-## 💫 Available Examples
+<!-- ## 💫 Available Examples
 
 ### 📸 Camera
 - [📷 CameraX example](app/src/main/java/com/asmaamir/mlkitdemo/CameraX): Preview, Capture and Analyze functionalities 🤹‍♀️ 
@@ -22,9 +22,9 @@ The app contains various examples of ML-Kit (Vision part), each example is prese
 > Still has drawing issue 🙄
 
 #### 🎁 Used Models
-- Object Detection: [👀 COCO SSD MobileNet v1](https://www.tensorflow.org/lite/models/object_detection/overview#performance_benchmarks)
+- Object Detection: [👀 COCO SSD MobileNet v1](https://www.tensorflow.org/lite/models/object_detection/overview#performance_benchmarks) -->
 
-## 🛑 Note
+<!-- ## 🛑 Note
 - 👮‍♀️ Presented codes are not optimized, since it is a demo it aims **simplicity**
 - 🔎 Check out best practices that will be suitable to your project
 
@@ -68,4 +68,5 @@ The app contains various examples of ML-Kit (Vision part), each example is prese
 
 ## 💼 Contact and Support
 Find me on [LinkedIn](https://www.linkedin.com/in/asmaamirkhan/) and feel free to mail me, [Asmaa 🦋](mailto:asmaamirkhan.am@gmail.com)
-
+ -->
+ --> -->

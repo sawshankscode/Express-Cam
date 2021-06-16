@@ -69,4 +69,4 @@ The app contains various examples of ML-Kit (Vision part), each example is prese
 ## 💼 Contact and Support
 Find me on [LinkedIn](https://www.linkedin.com/in/asmaamirkhan/) and feel free to mail me, [Asmaa 🦋](mailto:asmaamirkhan.am@gmail.com)
  -->
- --> -->
+
